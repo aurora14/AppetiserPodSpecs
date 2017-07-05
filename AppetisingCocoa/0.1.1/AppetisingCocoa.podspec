@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # 1
   s.platform = :ios
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.name = "AppetisingCocoa"
   s.description = "AppetisingCocoa is a general pod for Appetiser iOS apps. It pulls common
     dependencies and specifies some general helper functions and controls. Over time it'll
